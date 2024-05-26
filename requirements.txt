@@ -3,5 +3,6 @@ python-dotenv==1.0.0
 asgiref==3.6.0
 openai==1.25.1
 selenium==4.9.1
+Flask==3.0.3
 g4f==0.3.0.8
 g4f[all]
