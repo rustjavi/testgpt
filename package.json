@@ -11,6 +11,7 @@
     "dotenv": "^16.0.3",
     "asgiref": "^3.6.0",
     "openai": "^3.2.1",
+    "express": "^4.17.1",
     "selenium-webdriver": "^4.9.1",
     "g4f": "^0.3.0.8"
   }
